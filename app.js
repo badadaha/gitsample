@@ -1,3 +1,1 @@
-<javascript>
-    //TESTING
-</javascript>
+console.log("Hello");
